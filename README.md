@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zaid Amjad</h1>
+<h2 align="center">Hi 👋, I'm Muhammad Zaid Amjad</h2>
 <h3 align="center">Full Stack Developer , dedicated to building scalable, high performance web applications with a focus on clean code and seamless user experiences.</h3>
 
 - 📫 How to reach me **h.zaidamjad29@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
