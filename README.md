@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Muhammad Zaid Amjad</h2>
 <h3 align="center">Full Stack AI Developer, dedicated to building scalable, high-performance web applications and intelligent AI-powered solutions with a focus on clean code and seamless user experiences.</h3>
 
-- 📫 How to reach me **h.zaidamjad29@gmail.com**
+- 📫 How to reach me **zaidamjad.dev@gmail.com**
 
 <p align="left">
 </p>
