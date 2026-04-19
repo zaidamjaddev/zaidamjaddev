@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="align="left" style="white-space: nowrap; overflow-x: auto;"">
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
