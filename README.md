@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Muhammad Zaid Amjad</h2>
 
 <h3 align="center">
-Full Stack AI Developer, dedicated to building scalable, high-performance web applications and intelligent AI-powered solutions with a focus on clean code and seamless user experiences.
+Full-Stack Developer with 1.5 years of experience building scalable web applications using the MERN stack and creating automated AI workflows to automate manual processes.
 </h3>
 
 - 📫 How to reach me **zaidamjad.dev@gmail.com**
