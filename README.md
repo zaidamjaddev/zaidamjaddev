@@ -8,44 +8,78 @@ Full Stack AI Developer, dedicated to building scalable, high-performance web ap
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
-<tr>
+<p align="left">
 
-<td><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a></td>
+<a href="https://aws.amazon.com" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+</a>
 
-<td><a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40"/></a></td>
+<a href="https://www.chartjs.org" target="_blank" style="display:inline-block;">
+<img src="https://www.chartjs.org/media/logo-title.svg" width="40"/>
+</a>
 
-<td><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a></td>
+<a href="https://www.w3schools.com/cpp/" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</a>
 
-<td><a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a></td>
+<a href="https://www.w3schools.com/cs/" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+</a>
 
-<td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a></td>
+<a href="https://www.docker.com/" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+</a>
 
-<td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a></td>
+<a href="https://git-scm.com/" target="_blank" style="display:inline-block;">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+</a>
 
-<td><a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/></a></td>
+<a href="https://kafka.apache.org/" target="_blank" style="display:inline-block;">
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/>
+</a>
 
-<td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a></td>
+<a href="https://www.linux.org/" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</a>
 
-<td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a></td>
+<a href="https://www.mongodb.com/" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</a>
 
-<td><a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40"/></a></td>
+<a href="https://nestjs.com/" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40"/>
+</a>
 
-<td><a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></a></td>
+<a href="https://nextjs.org/" target="_blank" style="display:inline-block;">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+</a>
 
-<td><a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/></a></td>
+<a href="https://www.nginx.com" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
+</a>
 
-<td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a></td>
+<a href="https://nodejs.org" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+</a>
 
-<td><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a></td>
+<a href="https://www.postgresql.org" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+</a>
 
-<td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a></td>
+<a href="https://reactjs.org/" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+</a>
 
-<td><a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></a></td>
+<a href="https://redis.io" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
+</a>
 
-<td><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a></td>
+<a href="https://tailwindcss.com/" target="_blank" style="display:inline-block;">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</a>
 
-<td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a></td>
+<a href="https://www.typescriptlang.org/" target="_blank" style="display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+</a>
 
-</tr>
-</table>
+</p>
